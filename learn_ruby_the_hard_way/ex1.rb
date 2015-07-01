@@ -1,0 +1,15 @@
+puts "Hello World!"
+puts "Hello Again"
+puts "I like typing this."
+puts "This is fun."
+puts "Yay! Printing."
+puts "I'd much rather you 'not'."
+puts 'I "said" do not touch this. '
+#puts "I did it!"
+puts "Hola Mundo!"
+puts "Hola otra vez"
+puts "Me gusta escribir esto."
+puts "Esto es divertido."
+puts "Si! Escribiendo."
+puts "Preferiria que tu 'no' "
+puts 'Yo "dije" no toques esto. '
