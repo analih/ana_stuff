@@ -1,0 +1,13 @@
+rojo, verde = ARGV 
+
+puts "color con r es: #{rojo}"
+puts "color con v es #{verde}"
+
+print "cual es tu color favorito? "
+color = gets.chomp
+print "cual es tu forma favorita? "
+forma = gets.chomp
+
+puts "entonces, #{color} y #{forma} son tus elecciones. "
+
+

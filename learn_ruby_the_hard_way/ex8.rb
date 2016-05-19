@@ -12,3 +12,5 @@ puts formatter % {
   third: "But it didn't sing.",
   fourth: "So I said goodnight."
 }
+
+puts '*'*100
